@@ -40,11 +40,11 @@ Confirm the action to delete the note permanently.
 Save Notes in Local Storage:
 
 All notes are automatically saved in the browser's local storage, allowing you to access them even after closing the application or browser.
-Technologies Used
+## Technologies Used
 HTML
 CSS
 JavaScript
-Browser Compatibility
+## Browser Compatibility
 The Notes Application is compatible with the latest versions of popular modern browsers, including:
 
 Google Chrome
@@ -54,5 +54,5 @@ Safari
 Contributing
 Contributions to the Notes Application are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
