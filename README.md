@@ -19,7 +19,7 @@ To use the Notes Application on your local machine, follow these steps:
 
 bash
 Copy code
-git clone https://github.com/your-username/notes-application.git
+git clone https://github.com/snehilchhabria/Notes_Application.git
 Open the index.html file in your web browser.
 
 ##Usage
