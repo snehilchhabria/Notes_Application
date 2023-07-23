@@ -47,11 +47,11 @@ JavaScript
 ## Browser Compatibility
 The Notes Application is compatible with the latest versions of popular modern browsers, including:
 
-Google Chrome
+**Google Chrome
 Mozilla Firefox
 Microsoft Edge
-Safari
-Contributing
+Safari**
+## Contributing
 Contributions to the Notes Application are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ## License
