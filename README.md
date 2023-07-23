@@ -1,28 +1,28 @@
-Notes Application
-Notes Application Screenshot
+# Notes Application
 
-The Notes Application is a simple web-based application that allows users to create, manage, and organize their notes effectively. It is built using HTML, CSS, and JavaScript, making it easy to run and use directly from the browser.
+**The Notes Application is a simple web-based application that allows users to create, manage, and organize their notes effectively. It is built using HTML, CSS, and JavaScript, making it easy to run and use directly from the browser.
+**
 
-Features
+## Features
 Create new notes with a title and content.
 Edit existing notes to update their content.
 Delete unwanted notes to keep the workspace organized.
 Save notes in the browser's local storage for easy access across sessions.
 Responsive design for seamless usage on various devices.
-Demo
+## Demo
 You can access the live demo of the Notes Application here.
 
-Getting Started
+## Getting Started
 To use the Notes Application on your local machine, follow these steps:
 
-Clone the repository:
+## Clone the repository:
 
 bash
 Copy code
 git clone https://github.com/your-username/notes-application.git
 Open the index.html file in your web browser.
 
-Usage
+##Usage
 Create a New Note:
 
 Click on the "New Note" button to create a new note.
